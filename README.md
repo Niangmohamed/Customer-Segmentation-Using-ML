@@ -1,2 +1,2 @@
 # Customer-Segmentation-Using-ML
-This repository contains notebooks based of kaggle challenge on customers segmentation using ML!
+This repository contains notebooks based on kaggle challenge of customers segmentation using ML!
